@@ -14,6 +14,7 @@ Applications in real life:
 In real life, the application of machine learning for fake news detection has significant impacts across various sectors, helping to mitigate the spread of misinformation and ensuring the dissemination of accurate information.
 
 1.Social media giants like Facebook, Twitter, and Instagram use machine learning algorithms to automatically detect and flag or remove fake news. These algorithms analyze text, images, and videos to identify misleading content.
+
 2.Machine learning tools assist fact-checkers by automatically flagging suspicious posts and articles, allowing human reviewers to focus on the most critical content.
 
 3.News outlets use machine learning to verify the authenticity of sources and content before publication. This helps maintain journalistic integrity and public trust.
