@@ -7,7 +7,7 @@ By leveraging techniques such as natural language processing, sentiment analysis
 This not only helps in curbing the spread of misinformation but also enhances the reliability of information consumed by the public. 
 As the challenge of fake news continues to evolve, machine learning provides a dynamic and scalable solution to maintain the integrity of information in an increasingly connected world.
 
-You can check out this code to detect a fakenews based on the sentence,this project consists of two datasets one is true,other is fake.By training both of this datasets a model can say whether a news is fake or not.
+You can check out this code to detect a fakenews based on the sentence.This project consists of two datasets one is true,other is fake.By training both of this datasets a model can say whether a news is fake or not.
 
 Applications in real life:
 
