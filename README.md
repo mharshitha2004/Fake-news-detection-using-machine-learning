@@ -2,6 +2,8 @@ Fake News Detection Model using Machine Learning
 
 Dataset Link:https://www.kaggle.com/datasets/jainpooja/fake-news-detection
 
+Please find the report in this repository to understand the model evaluation.
+
 Fake news detection using machine learning has emerged as a critical area of research and application in the digital age, where misinformation can spread rapidly across various platforms, impacting public opinion and societal stability. Machine learning algorithms offer powerful tools to analyze vast amounts of data and identify patterns that distinguish false information from legitimate news. 
 By leveraging techniques such as natural language processing, sentiment analysis, and classification algorithms, these systems can effectively detect and flag fake news. 
 This not only helps in curbing the spread of misinformation but also enhances the reliability of information consumed by the public. 
